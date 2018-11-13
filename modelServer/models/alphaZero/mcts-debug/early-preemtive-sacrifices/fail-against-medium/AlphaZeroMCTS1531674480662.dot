@@ -1,0 +1,4 @@
+digraph {node4b05eb7d46014adba3bf9172fa34fea1 [label="[], V: -0.520, N: 1500, P: 0.00, U: 0.000", shape="box", fillcolor=yellow, style=filled];
+node562610354f2f42659a2cbf90ddfe9632 [label="[57,53,48,42,41,40,34,23,18,24,30,31,26,20,14,9,10], V: -0.520, N: 1499, P: 1.00, U: -0.262", shape="ellipse"];
+node4b05eb7d46014adba3bf9172fa34fea1 -> node562610354f2f42659a2cbf90ddfe9632;
+}

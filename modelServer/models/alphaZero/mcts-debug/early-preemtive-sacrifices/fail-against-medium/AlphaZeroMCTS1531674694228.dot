@@ -1,0 +1,12 @@
+digraph {nodecdf7cd9594ad44c6a8752987550eac6e [label="[], V: 0.231, N: 1500, P: 0.00, U: 0.000", shape="box", fillcolor=yellow, style=filled];
+nodef487e2634d0c4b9ea33532c23bbf3b0e [label="[35], V: -0.200, N: 1207, P: 0.80, U: 0.006", shape="box"];
+node876b31e165a44c848946948d16ad8011 [label="[40,29,21], V: 0.200, N: 1206, P: 1.00, U: 0.488", shape="box", fillcolor=yellow, style=filled];
+node0a28f0d71ac74f20a8ad1f027d34e0be [label="[26,31,25,14,8,2], V: 0.200, N: 1205, P: 1.00, U: 0.488", shape="ellipse"];
+node876b31e165a44c848946948d16ad8011 -> node0a28f0d71ac74f20a8ad1f027d34e0be;
+nodef487e2634d0c4b9ea33532c23bbf3b0e -> node876b31e165a44c848946948d16ad8011;
+nodecdf7cd9594ad44c6a8752987550eac6e -> nodef487e2634d0c4b9ea33532c23bbf3b0e;
+node7cb246bcb0fd4a06be85fa9156bc23e7 [label="[29,35,40,21], V: -0.357, N: 292, P: 0.20, U: -0.305", shape="box"];
+node47452fac8f33428bb268af9e884b756d [label="[26,31,25,14,8,2], V: 0.360, N: 291, P: 1.00, U: 0.943", shape="ellipse", fillcolor=yellow, style=filled];
+node7cb246bcb0fd4a06be85fa9156bc23e7 -> node47452fac8f33428bb268af9e884b756d;
+nodecdf7cd9594ad44c6a8752987550eac6e -> node7cb246bcb0fd4a06be85fa9156bc23e7;
+}

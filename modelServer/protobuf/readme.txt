@@ -1,0 +1,9 @@
+protoc --python_out=py/ DotsAndBoxesImage.proto
+protoc --python_out=py/ TrainingExample.proto
+protoc --python_out=py/ GameSequence.proto
+protoc --python_out=py/ AlphaDotsModel.proto
+protoc --python_out=py/ ModelList.proto
+protoc --python_out=py/ PolicyValueData.proto
+protoc --python_out=py/ ProcessManagement.proto
+protoc --python_out=py/ Prediction.proto
+protoc --python_out=py/ ModelServer.proto

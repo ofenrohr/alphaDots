@@ -1,0 +1,2 @@
+python dependencies:
+numpy, tensorflow-gpu, keras, Pillow, matplotlib, h5py
